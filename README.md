@@ -1,9 +1,3 @@
-Below is a **hybrid BFSI-style “UAT on‑prem + PROD on AWS” project** using **only what’s in your resume**, plus **Argo (ArgoCD)** because you asked for it. I’m not using tools outside your list (no Vault/Kyverno/Loki/Jaeger/k6/Tailscale/etc.).
-
-You’ll be able to confidently explain **why each tool exists, how it’s used, and how promotion UAT→PROD works under change control**.
-
----
-
 # 1) Target Design (BFSI Pattern, Small Resources)
 
 ## Environments
